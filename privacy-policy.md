@@ -1,11 +1,11 @@
-Privacy Policy for jPLAY Media Player
+Privacy Policy for JPlay
 
 Effective Date: [July 8, 2025]
 
-Thank you for choosing to use jPLAY Media Player. Your privacy is important to us. This Privacy Policy explains how we collect, use, and protect your information when you use our app.
+Thank you for choosing to use JPlay Media Player. Your privacy is important to us. This Privacy Policy explains how we collect, use, and protect your information when you use our app.
 
 1. Information We Do NOT Collect
-We respect your privacy. jPLAY Media Player does NOT collect any personal information such as:
+We respect your privacy. JPlay Media Player does NOT collect any personal information such as:
 - Your name
 - Email address
 - Phone number
